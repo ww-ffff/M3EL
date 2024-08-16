@@ -9,7 +9,7 @@ $M^3EL$ is a high-quality human-annotated MEL dataset. It includes 79,625 instan
 
 ### Get the Data
 
-- The annotated data: [Google Drive](https://drive.google.com/file/d/129olsROPDyK8Ziz3x99B-LHCXyZpUaG9/view?usp=sharing)
+- The annotated data: [here](https://drive.google.com/file/d/129olsROPDyK8Ziz3x99B-LHCXyZpUaG9/view?usp=sharing)
 
 
 ### Data Format
